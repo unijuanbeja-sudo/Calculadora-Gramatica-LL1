@@ -1,8 +1,0 @@
-pi_aprox = 3.14159265;
-angulo = pi_aprox / 4;
-seno_cuadrado = sin(angulo) * sin(angulo);
-coseno_cuadrado = cos(angulo) * cos(angulo);
-identidad = seno_cuadrado + coseno_cuadrado;
-diferencia = abs(identidad - 1.0);
-final = (identidad * 10) % 7;
-final;

@@ -1,2 +1,0 @@
-denominador = 0;
-resultado = 50 / denominador;
